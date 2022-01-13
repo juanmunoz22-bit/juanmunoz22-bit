@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 ## 🧰 What can I do (The list is still to grow mooooore 😉)
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/63082861/149419749-317bdccf-b941-4176-b665-de842b77ef13.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/63082861/149419749-317bdccf-b941-4176-b665-de842b77ef13.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/63082861/149422052-f02860ca-8a88-475c-87fb-0438191bafda.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/63082861/149418192-f98d8935-8713-4ae1-ac90-45f93db8d0dc.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -37,7 +38,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 </p>
-
 
 
 ## ⚡ My stats ⚡
