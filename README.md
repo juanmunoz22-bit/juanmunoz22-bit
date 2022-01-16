@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/63082861/149419749-317bdccf-b941-4176-b665-de842b77ef13.png" alt="Django" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/63082861/149422052-f02860ca-8a88-475c-87fb-0438191bafda.png" alt="Flask" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/63082861/149680578-8f25a6fe-5718-4f0e-b843-880365012561.jpg" alt="Go" height="40" style="vertical-align:top; margin:4px">
+<img src="![go-logo](https://user-images.githubusercontent.com/63082861/149682046-06c7c410-d803-4f44-a4df-6020f9722fa6.png)" alt="Go" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/63082861/149418192-f98d8935-8713-4ae1-ac90-45f93db8d0dc.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
