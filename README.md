@@ -8,7 +8,7 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [juan.pablo982206@gmail.com](mailto:juan.pablo982206@gmail.com)
-* 🚀  I'm currently working at [Cornershop By Uber](http://cornershopapp.com)
+* 🚀  I'm currently working at [Uber](http://uber.com)
 * 🧠  I'm learning Data Engineering and Machine Learning in Python
 * ⚡  My slogan? 🌍 The world is yours! 🌍
 
