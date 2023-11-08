@@ -9,7 +9,7 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [juan.pablo982206@gmail.com](mailto:juan.pablo982206@gmail.com)
 * 🚀  I'm currently working at [Uber](http://uber.com)
-* 🧠  I'm learning Data Engineering and Machine Learning in Python
+* 🧠  I love to nearn new stuff all the time. Currently learning Data Engineering and Software Development with Python 🐍
 * ⚡  My slogan? 🌍 The world is yours! 🌍
 
 ### Skills
@@ -39,7 +39,5 @@ I’m currently studying Computer Science. I think this has been my greatest exp
 <a href="http://www.github.com/juanmunoz22-bit"><img src="https://github-readme-stats.vercel.app/api?username=juanmunoz22-bit&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="juanmunoz22-bit's GitHub stats" /></a>
 
 <a href="http://www.github.com/juanmunoz22-bit"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanmunoz22-bit&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/juanmunoz22-bit"><img src="https://activity-graph.herokuapp.com/graph?username=juanmunoz22-bit&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/juanmunoz22-bit" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanmunoz22-bit&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
