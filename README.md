@@ -4,12 +4,12 @@ Hi 👋 My name is Juan Pablo
 Meet me in here to know what i'm into 🍕
 ----------------------------------------
 
-I’m currently studying Computer Science. I think this has been my greatest experience in life. Go on and do it! I have Backend Developer Experience and I'm working as Data Engineer 💻
+I’m a Software Engineer in love of the code and tech. I think this has been my greatest experience in life. Go on and do it! 💻 ❣️
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [juan.pablo982206@gmail.com](mailto:juan.pablo982206@gmail.com)
 * 🚀  I'm currently working at [Uber](http://uber.com)
-* 🧠  I love to nearn new stuff all the time. Currently learning Data Engineering and Software Development with Python 🐍
+* 🧠  I love to learn new stuff all the time. Currently learning Data Engineering and Software Development with Python 🐍
 * ⚡  My slogan? 🌍 The world is yours! 🌍
 
 ### Skills
