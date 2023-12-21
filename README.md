@@ -4,7 +4,7 @@ Hi 👋 My name is Juan Pablo
 Meet me in here to know what i'm into 🍕
 ----------------------------------------
 
-I’m a Software Engineer in love of the code and tech. I think this has been my greatest experience in life. Go on and do it! 💻 ❣️
+I’m a Software Engineer in love of the code and tech. I love doing code and I think Software can change the world, so ¡I never stop learning! 💻 ❣️
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [juan.pablo982206@gmail.com](mailto:juan.pablo982206@gmail.com)
