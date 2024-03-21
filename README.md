@@ -8,7 +8,7 @@ I’m a Software Engineer in love of the code and tech. I love doing code and I 
 
 * 🌍  I'm based in Bogota, Colombia
 * ✉️  You can contact me at [juan.pablo982206@gmail.com](mailto:juan.pablo982206@gmail.com)
-* 🚀  I'm currently working at [Uber](http://uber.com)
+* 🚀  I'm currently working at [Reorg](http://reorg.com)
 * 🧠  I love to learn new stuff all the time. Currently learning Data Engineering and Software Development with Python 🐍
 * ⚡  My slogan? 🌍 The world is yours! 🌍
 
